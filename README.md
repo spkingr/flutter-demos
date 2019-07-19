@@ -6,7 +6,7 @@ My everyday Flutter practice demos with Dart.
 
 *Date: 2018-8-18*
 
-![project_flutter_mvc](./project_flutter_mvc.gif)
+![project_flutter_mvc](https://github.com/spkingr/flutter-demos/raw/master/project_flutter_mvc/project_flutter_mvc.gif)
 
 Tips:
 
@@ -19,7 +19,7 @@ Tips:
 
 *Date: 2018-7-21*
 
-![](./.gif)
+The BUGS in the project not fixed till now...
 
 Tips:
 
@@ -34,7 +34,7 @@ Tips:
 
 *Date: 2018-7-12*
 
-![project_flutter_test](./project_flutter_test.gif)
+![project_flutter_test](https://github.com/spkingr/flutter-demos/raw/master/project_flutter_test/project_flutter_test.gif)
 
 Tips:
 
@@ -56,7 +56,7 @@ flutter drive --target=./test_driver/integration_widget.dart
 
 *Date: 2018-7-9*
 
-![project_reactive_flutter](./project_reactive_flutter.gif)
+![project_reactive_flutter](https://github.com/spkingr/flutter-demos/raw/master/project_reactive_flutter/project_reactive_flutter.gif)
 
 Tips:
 
@@ -72,7 +72,7 @@ Tips:
 
 *Date: 2018-6-27*
 
-![project_login_with_database](./project_login_with_database.gif)
+![project_login_with_database](https://github.com/spkingr/flutter-demos/raw/master/project_login_with_database/project_login_with_database.gif)
 
 Tips:
 
@@ -111,7 +111,7 @@ import '../widgets/widget_loader.dart';
 
 *Date: 2018-6-17*
 
-![project_database_file](./project_database_file.gif)
+![project_database_file](https://github.com/spkingr/flutter-demos/raw/master/project_database_file/project_database_file.gif)
 
 Tips:
 
@@ -126,7 +126,7 @@ Tips:
 
 *Date: 2018-6-7*
 
-![project_sliver_scroll_view](./project_sliver_scroll_view.gif)
+![project_sliver_scroll_view](https://github.com/spkingr/flutter-demos/raw/master/project_sliver_scroll_view/project_sliver_scroll_view.gif)
 
 Tips:
 
@@ -151,7 +151,7 @@ Tips:
 
 *Date: 2018-5-31*
 
-![project_backdrop](./project_backdrop.gif)
+![project_backdrop](https://github.com/spkingr/flutter-demos/raw/master/project_backdrop/project_backdrop.gif)
 
 Tips:
 
@@ -165,7 +165,7 @@ Tips:
 
 *Date: 2018-5-25*
 
-![project_text_with_backdrop](./project_text_with_backdrop.gif)
+![project_text_with_backdrop](https://github.com/spkingr/flutter-demos/raw/master/project_text_with_backdrop/project_text_with_backdrop.gif)
 
 Tips:
 
@@ -180,7 +180,7 @@ Resource: [Flutter gallery](https://github.com/flutter/flutter/tree/master/examp
 
 *Date: 2018-5-21*
 
-![project_reveal_transition](./project_reveal_transition.gif)
+![project_reveal_transition](https://github.com/spkingr/flutter-demos/raw/master/project_reveal_transition/project_reveal_transition.gif)
 
 Tips:
 
@@ -195,7 +195,7 @@ Resource: [fluro](https://github.com/theyakka/fluro)
 
 *Date: 2018-5-17*
 
-![project_stop_watch](./project_stop_watch.gif)
+![project_stop_watch](https://github.com/spkingr/flutter-demos/raw/master/project_stop_watch/project_stop_watch.gif)
 
 Tips:
 
@@ -207,7 +207,7 @@ Tips:
 
 *Date: 2018-5-11*
 
-![project_inner_tabs](./project_inner_tabs.gif)
+![project_inner_tabs](https://github.com/spkingr/flutter-demos/raw/master/project_inner_tabs/project_inner_tabs.gif)
 
 Tips:
 
@@ -219,7 +219,7 @@ Tips:
 
 *Date: 2018-5-10*
 
-![project_drawer](./project_drawer.gif)
+![project_drawer](https://github.com/spkingr/flutter-demos/raw/master/project_drawer/project_drawer.gif)
 
 Tips:
 
@@ -232,7 +232,7 @@ Tips:
 
 *Date: 2018-5-8*
 
-![project_loading_button](./project_loading_button.gif)
+![project_loading_button](https://github.com/spkingr/flutter-demos/raw/master/project_loading_button/project_loading_button.gif)
 
 Tips:
 
@@ -247,7 +247,7 @@ Resource: [Flutter Progress Button Animation](http://myhexaville.com/2018/05/07/
 
 *Date: 2018-5-2*
 
-![project_painter](./project_painter.gif)
+![project_painter](https://github.com/spkingr/flutter-demos/raw/master/project_painter/project_painter.gif)
 
 Tips:
 
@@ -260,7 +260,7 @@ Tips:
 
 *Date: 2018-4-26*
 
-![project_chart](./project_chart.gif)
+![project_chart](https://github.com/spkingr/flutter-demos/raw/master/project_chart/project_chart.gif)
 
 Tips:
 
@@ -274,7 +274,7 @@ Resource: [charts gallery and code](https://google.github.io/charts/flutter/gall
 
 *Date: 2018-4-25*
 
-![project_carousel](./project_carousel.gif)
+![project_carousel](https://github.com/spkingr/flutter-demos/raw/master/project_carousel/project_carousel.gif)
 
 Tips:
 
@@ -286,7 +286,7 @@ Tips:
 
 *Date: 2018-4-24*
 
-![project_simple_navigator](./project_simple_navigator.gif)
+![project_simple_navigator](https://github.com/spkingr/flutter-demos/raw/master/project_simple_navigator/project_simple_navigator.gif)
 
 Tips:
 
@@ -302,7 +302,7 @@ Resource: [Flutter - Radio Animation is not showing up on showDialog](https://st
 
 *Date: 2018-3-24*
 
-![project_friendly_chat](./project_friendly_chat.gif)
+![project_friendly_chat](https://github.com/spkingr/flutter-demos/raw/master/project_friendly_chat/project_friendly_chat.gif)
 
 Tips:
 
@@ -317,7 +317,7 @@ Resource: [https://codelabs.developers.google.com/codelabs/flutter/](https://cod
 
 *Date: 2018-3-19*
 
-![project_animation](./project_animation.gif)
+![project_animation](https://github.com/spkingr/flutter-demos/raw/master/project_animation/project_animation.gif)
 
 Tips:
 
@@ -330,7 +330,7 @@ Tips:
 
 *Date: 2018-3-16*
 
-![project_network_list](./project_network_list.gif)
+![project_network_list](https://github.com/spkingr/flutter-demos/raw/master/project_network_list/project_network_list.gif)
 
 Tips:
 
@@ -343,7 +343,7 @@ Tips:
 
 *Date: 2018-3-15*
 
-![project_simple_list](./project_simple_list.gif)
+![project_simple_list](https://github.com/spkingr/flutter-demos/raw/master/project_simple_list/project_simple_list.gif)
 
 Tips:
 
@@ -356,7 +356,7 @@ Tips:
 
 *Date: 2018-3-12*
 
-![project_tabbar_view](./project_tabbar_view.gif)
+![project_tabbar_view](https://github.com/spkingr/flutter-demos/raw/master/project_tabbar_view/project_tabbar_view.gif)
 
 Tips:
 
@@ -369,7 +369,7 @@ Tips:
 
 *Date: 2018-3-9*
 
-![project_basic_layout](./project_basic_layout.gif)
+![project_basic_layout](https://github.com/spkingr/flutter-demos/raw/master/project_basic_layout/project_basic_layout.gif)
 
 Tips:
 
@@ -382,7 +382,7 @@ Tips:
 
 *Date: 2018-3-8*
 
-![project_hello_world](./project_hello_world.gif)
+![project_hello_world](https://github.com/spkingr/flutter-demos/raw/master/project_hello_world/project_hello_world.gif)
 
 Tips:
 
