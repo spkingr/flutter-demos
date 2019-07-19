@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/project_stop_watch.iml" filepath="$PROJECT_DIR$/project_stop_watch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project_stop_watch_android.iml" filepath="$PROJECT_DIR$/project_stop_watch_android.iml" />
+    </modules>
+  </component>
+</project>
